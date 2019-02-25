@@ -24,19 +24,19 @@ self.__precacheManifest = [
     "url": "/Mate-hackathon/static/js/runtime~main.bdde4154.js"
   },
   {
-    "revision": "3b3bbdd4ca4cf4f5c481",
-    "url": "/Mate-hackathon/static/js/main.3b3bbdd4.chunk.js"
+    "revision": "a9276c7dfcca2aa639f5",
+    "url": "/Mate-hackathon/static/js/main.a9276c7d.chunk.js"
   },
   {
     "revision": "a66add37c75d96f43f08",
     "url": "/Mate-hackathon/static/js/2.a66add37.chunk.js"
   },
   {
-    "revision": "3b3bbdd4ca4cf4f5c481",
+    "revision": "a9276c7dfcca2aa639f5",
     "url": "/Mate-hackathon/static/css/main.a0c9431f.chunk.css"
   },
   {
-    "revision": "445bca1c436ac7d992a3229b9aab9b18",
+    "revision": "802282f1d10d510c1aae023b331639a6",
     "url": "/Mate-hackathon/index.html"
   }
 ];
